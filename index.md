@@ -1,14 +1,18 @@
 ---
-layout: default
+layout: landing
 title:  Akuzipigelta
 ---
 
 <style type="text/css">
   p {
-    font-size: 200%;
+    font-size: 150%;
+    margin-block-start: 0em;
   }
   body {
     border: 10px solid black;
+  }
+  page-content {
+    padding: 0 0;
   }
 </style>
 
