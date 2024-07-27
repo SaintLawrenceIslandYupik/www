@@ -22,6 +22,7 @@ By accessing this resource, you agree to treat this resource, the St. Lawrence I
 
 If you do not agree to these conditions, you may not access this resource and you may not make copies of this resource.
 
-[I agree to these conditions](https://bhunt6.github.io/akuzipigestun-sangaawa/)
+
+[I agree to these conditions](links)
 
 
