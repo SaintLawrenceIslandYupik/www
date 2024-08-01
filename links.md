@@ -27,4 +27,8 @@ title:  Akuzipigelta
 
 [Body parts](https://drive.google.com/file/d/1y32fTbfa-DOTObwoSwh7wW2_JCOSM4Oc/view?usp=sharing)
 
+# About this site
+
+[About](about.md)
+
 
