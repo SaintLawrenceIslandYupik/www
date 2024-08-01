@@ -22,7 +22,7 @@ This web site was developed by [Sugri Lane Schwartz](mailto:lane.schwartz@alaska
 
 # Conditions
 
-As documented above, the resources on this site are distributed by explicit written permission under the following conditions:
+The resources on this site are distributed with  the express written consent of the St. Lawrence Island governing councils and copyright holders under the following conditions:
 
 **This resource is part of the linguistic and cultural heritage of the St. Lawrence Island Yupik people. By accessing this resource, you agree to treat this resource, the St. Lawrence Island Yupik language, the St. Lawrence Island Yupik culture, and the St. Lawrence Island Yupik people with dignity and respect. If you do not agree to these conditions, you may not access this resource and you may not make copies of this resource.**
 
