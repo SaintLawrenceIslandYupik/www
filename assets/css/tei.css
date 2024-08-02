@@ -151,3 +151,6 @@ tei-text {
 tei-titlepage {
   display: block;
 }
+img {
+  margin: auto;
+}
