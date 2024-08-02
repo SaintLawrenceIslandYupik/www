@@ -162,7 +162,7 @@
                 <docTitle>
                     <titlePart xml:lang="ess-us">KULUSIINKUT</titlePart>
                 </docTitle>
-                <graphic url="https://dowobeha.github.io/tei/SY970B1972d/cover.png" />
+                <graphic url="https://akuzipik.info/assets/webp/SY970B1972d/cover.webp" />
             </titlePage>
 
 
@@ -170,7 +170,7 @@
             <div type="titlePage" xml:lang="ess-us">
                 <head xml:lang="ess-us">
                     <title type="main" xml:lang="ess-us">KULUSIINKUT</title>
-                    <graphic url="https://dowobeha.github.io/tei/SY970B1972d/title.png" />
+                    <graphic url="https://akuzipik.info/assets/webp/SY970B1972d/title.webp" />
                     <title type="sub" xml:lang="ess-us">Liinnaqsuwhaallghet</title>
                 </head>
                 
@@ -247,8 +247,8 @@
         <body xml:lang="ess-us">
             <pb n="" /><div><head>Kulusiinkut</head></div>
             
-            <pb n="1" /><div type="page" n="1" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0001.png"/><s>Kulusiq</s></p></div>
-            <pb n="2" /><div type="page" n="2" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0002.png"/><s>Ata</s></p></div>
+            <pb n="1" /><div type="page" n="1" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0001_25.webp"/><s>Kulusiq</s></p></div>
+            <pb n="2" /><div type="page" n="2" ><p><graphic url="assets/webp/SY970B1972d/p0002.png"/><s>Ata</s></p></div>
             <pb n="3" /><div type="page" n="3" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0003.png"/><s>Naa</s></p></div>
             <pb n="4" /><div type="page" n="4" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0004.png"/><s>Qikmiq</s></p></div>
             <pb n="5" /><div type="page" n="5" ><p><graphic url="https://dowobeha.github.io/tei/SY970B1972d/p0005.png"/><s>Una Kulusiim atakaa<pc join="left">.</pc></s></p></div>
