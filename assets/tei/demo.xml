@@ -162,7 +162,7 @@
                 <docTitle>
                     <titlePart xml:lang="ess-us">KULUSIINKUT</titlePart>
                 </docTitle>
-                <graphic url="https://akuzipik.info/assets/webp/SY970B1972d/cover.webp" />
+                <graphic url="assets/webp/SY970B1972d/cover.webp" />
             </titlePage>
 
 
@@ -170,7 +170,7 @@
             <div type="titlePage" xml:lang="ess-us">
                 <head xml:lang="ess-us">
                     <title type="main" xml:lang="ess-us">KULUSIINKUT</title>
-                    <graphic url="https://akuzipik.info/assets/webp/SY970B1972d/title.webp" />
+                    <graphic url="assets/webp/SY970B1972d/title.webp" />
                     <title type="sub" xml:lang="ess-us">Liinnaqsuwhaallghet</title>
                 </head>
                 
@@ -247,28 +247,28 @@
         <body xml:lang="ess-us">
             <pb n="" /><div><head>Kulusiinkut</head></div>
             
-            <pb n="1" /><div type="page" n="1" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0001_25.webp"/><s>Kulusiq</s></p></div>
+            <pb n="1" /><div type="page" n="1" ><p><graphic url="assets/webp/SY970B1972d/p0001_25.webp"/><s>Kulusiq</s></p></div>
             <pb n="2" /><div type="page" n="2" ><p><graphic url="assets/webp/SY970B1972d/p0002.webp"/><s>Ata</s></p></div>
-            <pb n="3" /><div type="page" n="3" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0003.webp"/><s>Naa</s></p></div>
-            <pb n="4" /><div type="page" n="4" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0004.webp"/><s>Qikmiq</s></p></div>
-            <pb n="5" /><div type="page" n="5" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0005.webp"/><s>Una Kulusiim atakaa<pc join="left">.</pc></s></p></div>
-            <pb n="6" /><div type="page" n="6" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0006.webp"/><s>Una Kulusiim naakaa<pc join="left">.</pc></s></p></div>
-            <pb n="7" /><div type="page" n="7" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0007.webp"/><s>Una Atam qikmiqaa<pc join="left">.</pc></s></p></div>
-            <pb n="8" /><div type="page" n="8" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0008.webp"/><s>Una Kulusiim qikmiqaa<pc join="left">.</pc></s></p></div>
-            <pb n="9" /><div type="page" n="9" ><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0009.webp"/><s>Tagi<pc join="left">,</pc> Kulusiq<pc join="left">!</pc></s> <s>Tagi<pc join="left">!</pc></s></p></div>
-            <pb n="10"/><div type="page" n="10"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0010.webp"/><s>Kulusiq tagiiq<pc join="left">.</pc></s></p></div>
-            <pb n="11"/><div type="page" n="11"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0011.webp"/><s>Ata tagiiq<pc join="left">.</pc></s></p></div>
-            <pb n="12"/><div type="page" n="12"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0012.webp"/><s>Qikmiqlu tagiiq<pc join="left">.</pc></s></p></div>
-            <pb n="13"/><div type="page" n="13"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0013.webp"/><s>Neghi<pc join="left">,</pc> Kulusiq<pc join="left">,</pc> neghi<pc join="left">!</pc></s></p></div>
-            <pb n="14"/><div type="page" n="14"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0014.webp"/><s>Neghigu una<pc join="left">.</pc></s></p></div>
-            <pb n="15"/><div type="page" n="15"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0015.webp"/><s>Kulusiq neghtuq<pc join="left">.</pc></s></p></div>
-            <pb n="16"/><div type="page" n="16"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0016.webp"/><s>Ata neghtuq<pc join="left">.</pc></s></p></div>
-            <pb n="17"/><div type="page" n="17"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0017.webp"/><s>Naa neghtuq<pc join="left">.</pc></s></p></div>
-            <pb n="18"/><div type="page" n="18"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0018.webp"/><s>Atankuk naankuk neghtuk<pc join="left">.</pc></s></p></div>
-            <pb n="19"/><div type="page" n="19"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0019.webp"/><s>Neghi<pc join="left">,</pc> qikmiq<pc join="left">,</pc> neghi<pc join="left">!</pc></s></p></div>
-            <pb n="20"/><div type="page" n="20"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0020.webp"/><s>Qikmiq neghtuq<pc join="left">.</pc></s></p></div>
-            <pb n="21"/><div type="page" n="21"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0021.webp"/><s>Atam qikmii neghtuq<pc join="left">.</pc></s></p></div>
-            <pb n="22"/><div type="page" n="22"><p><graphic url="https://akuzipik.info/assets/webp/SY970B1972d/p0022.webp"/><s>Kulusiimllu qikmii neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="3" /><div type="page" n="3" ><p><graphic url="assets/webp/SY970B1972d/p0003.webp"/><s>Naa</s></p></div>
+            <pb n="4" /><div type="page" n="4" ><p><graphic url="assets/webp/SY970B1972d/p0004.webp"/><s>Qikmiq</s></p></div>
+            <pb n="5" /><div type="page" n="5" ><p><graphic url="assets/webp/SY970B1972d/p0005.webp"/><s>Una Kulusiim atakaa<pc join="left">.</pc></s></p></div>
+            <pb n="6" /><div type="page" n="6" ><p><graphic url="assets/webp/SY970B1972d/p0006.webp"/><s>Una Kulusiim naakaa<pc join="left">.</pc></s></p></div>
+            <pb n="7" /><div type="page" n="7" ><p><graphic url="assets/webp/SY970B1972d/p0007.webp"/><s>Una Atam qikmiqaa<pc join="left">.</pc></s></p></div>
+            <pb n="8" /><div type="page" n="8" ><p><graphic url="assets/webp/SY970B1972d/p0008.webp"/><s>Una Kulusiim qikmiqaa<pc join="left">.</pc></s></p></div>
+            <pb n="9" /><div type="page" n="9" ><p><graphic url="assets/webp/SY970B1972d/p0009.webp"/><s>Tagi<pc join="left">,</pc> Kulusiq<pc join="left">!</pc></s> <s>Tagi<pc join="left">!</pc></s></p></div>
+            <pb n="10"/><div type="page" n="10"><p><graphic url="assets/webp/SY970B1972d/p0010.webp"/><s>Kulusiq tagiiq<pc join="left">.</pc></s></p></div>
+            <pb n="11"/><div type="page" n="11"><p><graphic url="assets/webp/SY970B1972d/p0011.webp"/><s>Ata tagiiq<pc join="left">.</pc></s></p></div>
+            <pb n="12"/><div type="page" n="12"><p><graphic url="assets/webp/SY970B1972d/p0012.webp"/><s>Qikmiqlu tagiiq<pc join="left">.</pc></s></p></div>
+            <pb n="13"/><div type="page" n="13"><p><graphic url="assets/webp/SY970B1972d/p0013.webp"/><s>Neghi<pc join="left">,</pc> Kulusiq<pc join="left">,</pc> neghi<pc join="left">!</pc></s></p></div>
+            <pb n="14"/><div type="page" n="14"><p><graphic url="assets/webp/SY970B1972d/p0014.webp"/><s>Neghigu una<pc join="left">.</pc></s></p></div>
+            <pb n="15"/><div type="page" n="15"><p><graphic url="assets/webp/SY970B1972d/p0015.webp"/><s>Kulusiq neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="16"/><div type="page" n="16"><p><graphic url="assets/webp/SY970B1972d/p0016.webp"/><s>Ata neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="17"/><div type="page" n="17"><p><graphic url="assets/webp/SY970B1972d/p0017.webp"/><s>Naa neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="18"/><div type="page" n="18"><p><graphic url="assets/webp/SY970B1972d/p0018.webp"/><s>Atankuk naankuk neghtuk<pc join="left">.</pc></s></p></div>
+            <pb n="19"/><div type="page" n="19"><p><graphic url="assets/webp/SY970B1972d/p0019.webp"/><s>Neghi<pc join="left">,</pc> qikmiq<pc join="left">,</pc> neghi<pc join="left">!</pc></s></p></div>
+            <pb n="20"/><div type="page" n="20"><p><graphic url="assets/webp/SY970B1972d/p0020.webp"/><s>Qikmiq neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="21"/><div type="page" n="21"><p><graphic url="assets/webp/SY970B1972d/p0021.webp"/><s>Atam qikmii neghtuq<pc join="left">.</pc></s></p></div>
+            <pb n="22"/><div type="page" n="22"><p><graphic url="assets/webp/SY970B1972d/p0022.webp"/><s>Kulusiimllu qikmii neghtuq<pc join="left">.</pc></s></p></div>
             
         </body>
         
