@@ -167,7 +167,7 @@
 
 
             <pb n="" />
-            <div type="titlePage" xml:lang="ess-us">
+            <div type="titlePage" xml:lang="ess-us" id="title">
                 <head xml:lang="ess-us">
                     <title type="main" xml:lang="ess-us">KULUSIINKUT</title>
                     <graphic url="assets/webp/SY970B1972d/title_25.webp" />
@@ -247,7 +247,7 @@
         <body xml:lang="ess-us">
             <pb n="" /><div><head>Kulusiinkut</head></div>
             
-            <pb n="1" /><div type="page" n="1" ><graphic url="assets/webp/SY970B1972d/p0001_25.webp"/><p><s>Kulusiq</s></p></div>
+            <pb n="1" /><div type="page" n="1" id="foo"><p><graphic url="assets/webp/SY970B1972d/p0001_25.webp"/><s>Kulusiq</s></p></div>
             <pb n="2" /><div type="page" n="2" ><p><graphic url="assets/webp/SY970B1972d/p0002_25.webp"/><s>Ata</s></p></div>
             <pb n="3" /><div type="page" n="3" ><p><graphic url="assets/webp/SY970B1972d/p0003_25.webp"/><s>Naa</s></p></div>
             <pb n="4" /><div type="page" n="4" ><p><graphic url="assets/webp/SY970B1972d/p0004_25.webp"/><s>Qikmiq</s></p></div>

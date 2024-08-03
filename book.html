@@ -4,35 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="assets/css/tei.css">
-  <script src="assets/js/CETEI.js"></script>
-  <script>
-    let c = new CETEI();
-    let behaviors = {
-      "tei": {
-        "head": function(e) {
-          let level = document.evaluate("count(ancestor::tei-div)", e, null, XPathResult.NUMBER_TYPE, null);
-          let result = document.createElement("h" + (level.numberValue>7 ? 7 : level.numberValue));
-          for (let n of Array.from(e.childNodes)) {
-            result.appendChild(n.cloneNode());
-          }
-          return result;
-        },
-        "lb": ["<br>"],
-        /* Insert a <p> with the content of the <pb>'s @n attribute inside it
-           Add a line above with CSS */
-        "pb": ["<p class=\"break\">$@n</p>"],
-        /*"graphic": ["<br>"],*/
-      }
-    };
-    c.addBehaviors(behaviors);
-    c.getHTML5('assets/tei/demo.xml', function(data){
-      document.getElementsByTagName('body')[0].appendChild(data);
-    });
-  </script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="assets/css/tei.css">
+      <script src="assets/js/CETEI.js"></script>
+      <script src="assets/js/loadbook.js"></script>
+      <script src="assets/js/buttons.js"></script>
 </head>
 <body>
-
+  <button type="button" class="back" onclick="myHide()">Back</button>
+  <button type="button" class="next" onclick="myFunction(this, 'red')">Next</button>
 </body>
 </html>
 

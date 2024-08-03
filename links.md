@@ -23,12 +23,14 @@ title:  Akuzipigelta
 
 # Other resources
 
+[Elder Voices from KNOM]({{ site.baseurl }}/knom)
+
 [Pledge of Allegiance video](https://drive.google.com/file/d/1BYTVWGKvFQz3bVQ7FuHWDt8yHLwksLF7/view?fbclid=IwY2xjawEP_zpleHRuA2FlbQIxMAABHVhDsxrOJYzBLzL8qXqpe_WJMgS0fGsRp1XsSD5vLPk2kLagTKd_CEsWNg_aem_VoV1supyYIAzv7uPykeOIg)
 
 [Body parts](https://drive.google.com/file/d/1y32fTbfa-DOTObwoSwh7wW2_JCOSM4Oc/view?usp=sharing)
 
 # About this site
 
-[About](about.md)
+[About]({{ site.baseurl }}/about)
 
 
