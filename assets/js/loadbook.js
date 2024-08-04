@@ -36,7 +36,8 @@ let behaviors = {
 };
 c.addBehaviors(behaviors);
 c.getHTML5('assets/tei/demo.xml', function(data){
-  document.getElementsByTagName('body')[0].appendChild(data);
+  document.getElementsByClassName('bookContent')[0].appendChild(data);
+//  document.getElementsByTagName('body')[0].appendChild(data);
 });
 
 

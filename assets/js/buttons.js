@@ -3,6 +3,7 @@ function myFunction(element, color) {
 }
 
 function startBook() {
+  
   for (const tag of ["tei-titlePage", "tei-div"]) {
     //const tag="tei-pb";
     const allParas = document.getElementsByTagName(tag);
