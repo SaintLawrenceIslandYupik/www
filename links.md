@@ -10,7 +10,9 @@ title:  Akuzipigelta
 
 # Digitized books
 
-[Early elementary readers](https://drive.google.com/drive/folders/1IRk8juiSFMwVBquOTgbILK63j33iLToJ?usp=share_link)
+[Kulusiinkut](/book)
+
+[Other early elementary readers](https://drive.google.com/drive/folders/1IRk8juiSFMwVBquOTgbILK63j33iLToJ?usp=share_link)
 
 [Higher elementary readers](https://drive.google.com/drive/folders/1IRk8juiSFMwVBquOTgbILK63j33iLToJ?usp=share_link)
 
