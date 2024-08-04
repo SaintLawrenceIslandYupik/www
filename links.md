@@ -10,7 +10,7 @@ title:  Akuzipigelta
 
 # Digitized books
 
-[Kulusiinkut](/book)
+[Kulusiinkut](/kulusiinkut)
 
 
 ## Google Drive links
