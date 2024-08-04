@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="icon" type="image/x-icon" href="/favicon.ico" | relative_url }}>
   <link rel="stylesheet" href="assets/css/tei.css">
@@ -12,14 +12,16 @@
 </head>
 <body>
   
-  <div class="navButtons" style="height:2.5em; width:100%; display: flex;   display: block; text-align: center;" >
+  <div class="navButtons" style="text-align: center; margin-left: auto; margin-right: auto;" >
+    <!--<span style="display: inline-block;">foo</span>-->
     <button type="button" class="back" onclick="prevPage()" style="position: relative; width:2.5em">⇤</button>
     <button type="button" class="back" onclick="prevPage()" style="position: relative; width:2.5em;">←</button>
     <button type="button" class="start" onclick="startBook()" style="position: relative; width:5em">Start</button>
     <button type="button" class="next" onclick="nextPage()" style="position: relative; width:2.5em;">→</button>
     <button type="button" class="next" onclick="nextPage()" style="position: relative; width:2.5em;">⇥ </button>
+    <!--<span style="display: inline-block; text-align: right;">bar</span>-->
   </div>
-  <div class="bookContent" style="position: relative; width:100%;   display: block;  text-align: center;"></div>
+  <div class="bookContent" style="text-align: center;"></div>
 
 </body>
 </html>

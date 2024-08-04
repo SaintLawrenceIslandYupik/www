@@ -139,7 +139,7 @@ tei-tei {
 }
 tei-text {
   display: block;
-  width: 750px;
+  /*width: 750px;*/
   margin: auto;
 }
 tei-titlepage {
