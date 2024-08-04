@@ -4,6 +4,13 @@ function myFunction(element, color) {
 
 function startBook() {
   
+  const buttons = document.getElementsByTagName("button");
+  for (const button of buttons) {
+    //if (div.style.display === "") {
+      button.disabled = false;
+    //}
+  }
+  
   for (const tag of ["tei-titlePage", "tei-div"]) {
     //const tag="tei-pb";
     const allParas = document.getElementsByTagName(tag);
@@ -29,6 +36,30 @@ function startBook() {
   }
   
   
+}
+
+
+function firstPage() {
+  alert("First page");
+}
+
+function lastPage() {
+  startBook();
+  
+  for (const tag of ["tei-titlePage"]) {
+    //const tag="tei-pb";
+    const allParas = document.getElementsByTagName(tag);
+    
+    for (const div of allParas) {
+        div.style.display = "none";
+    }
+    
+  }
+  
+  const allDivs = document.getElementsByTagName("tei-div");
+  const index = allDivs.length - 1;
+  
+  allDivs[index].style.display = "block";
 }
 
 function prevPage() {
