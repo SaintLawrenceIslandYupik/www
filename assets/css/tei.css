@@ -181,4 +181,5 @@ tei-div[type=dedication]>tei-lg {
 div {
   display: block;
   text-align: center;
+  margin-bottom: 1.5em;
 }
