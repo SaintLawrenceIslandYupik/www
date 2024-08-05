@@ -237,10 +237,8 @@
             <div type="page" n="2" >
                 <graphic url="p0002.webp"/>
                 <p>
-                    <pc join="right">“</pc>
-                    <s>Tagi<pc join="left">,</pc> Kulusiq<pc>!</pc></s><lb/>
-                    <s>Tagi<pc join="left">!</pc></s>
-                    <pc join="left">”</pc>
+                    <pc join="right">“</pc><s>Tagi<pc join="left">,</pc> Kulusiq<pc>!</pc></s><lb/>
+                    <s>Tagi<pc join="left">!</pc></s><pc join="left">”</pc>
                 </p>
             </div>
             <pb n="3" />
@@ -307,10 +305,8 @@
             <div type="page" n="10">
               <graphic url="p0010.webp"/>
               <p>
-                  <pc join="right">“</pc>
-                  <s>Aglaa<pc join="left">!</pc></s><lb/>
-                  <s>Aglaa<pc join="left">,</pc> Paansu<pc join="left">,</pc> aglaa<pc join="left">!</pc></s>
-                  <pc join="left">”</pc>
+                  <pc join="right">“</pc><s>Aglaa<pc join="left">!</pc></s><lb/>
+                  <s>Aglaa<pc join="left">,</pc> Paansu<pc join="left">,</pc> aglaa<pc join="left">!</pc></s><pc join="left">”</pc>
               </p>
             </div>
             <pb n="11"/>
