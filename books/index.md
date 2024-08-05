@@ -7,8 +7,9 @@ title:  Akuzipigelta
 
 [Kulusiinkut](kulusiinkut)
 
+[Kulusiq](kulusiq)
 
 
-[About]({{ site.baseurl }}/about)
+# [About]({{ site.baseurl }}/about)
 
 

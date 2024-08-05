@@ -1,0 +1,365 @@
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://lodel.org/ns/tei/tei.openedition.1.6.3/document.xsd">
+    
+    <teiHeader> <!-- (TEI header) supplies descriptive and declarative metadata associated with a digital resource or set of resources. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-teiHeader.html -->
+        
+        <fileDesc> <!-- (file description) contains a full bibliographic description of an electronic file. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-fileDesc.html -->
+            
+            <titleStmt xml:id="SY970B1972c"> <!-- (title statement) groups information about the title of a work and those responsible for its content. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-titleStmt.html
+                        -->
+                <title type="main" xml:lang="ess-us">Kulusiq</title> <!-- (title) contains a title for any kind of work. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-title.html -->
+                <title type="sub"  xml:lang="ess-us">Liinnaqsuwhaallghet</title>
+                
+                <title type="main" xml:lang="eng-us">Kulusiq</title>
+                <title type="sub"  xml:lang="eng-us">Pre-Primer</title>
+                
+                <author xml:lang="eng-us" role="bookAuthor"> <!-- (author) in a bibliographic reference, contains the name(s) of an author, personal or corporate, of a work; for example in the same form as that provided by a recognized bibliographic name authority. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-author.html -->
+                    <persName> <!-- (personal name) contains a proper noun or proper-noun phrase referring to a person, possibly including one or more of the person's forenames, surnames, honorifics, added names, etc. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-persName.html -->
+                        <forename xml:lang="eng-us">Martha</forename> <!-- (forename) contains a forename, given or baptismal name. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-forename.html -->
+                        <surname xml:lang="eng-us">Teeluk</surname> <!-- (surname) contains a family (inherited) name, as opposed to a given, baptismal, or nick name. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-surname.html -->
+                    </persName>
+                    <persName>
+                      <forename xml:lang="eng-us">Marie</forename>
+                      <surname xml:lang="eng-us">Blanchett</surname>
+                  </persName>
+                      
+                </author>
+                
+                <editor xml:lang="eng-us" role="bookIllustrator"> <!-- (editor) contains a secondary statement of responsibility for a bibliographic item, for example the name of an individual, institution or organization, (or of several such) acting as editor, compiler, translator, etc. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-editor.html -->
+                  <persName>
+                      <forename xml:lang="eng-us">Paschal</forename>
+                      <surname xml:lang="eng-us">Afcan</surname>
+                  </persName>
+                    <persName>
+                        <forename xml:lang="eng-us">Andrew</forename>
+                        <surname xml:lang="eng-us">Chikoyak</surname>
+                    </persName>
+                </editor>
+                
+            </titleStmt>
+
+
+            <editionStmt> <!-- (edition statement) groups information relating to one edition of a text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-editionStmt.html -->
+                <edition><!-- (edition) describes the particularities of one edition of a text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-edition.html -->Archival digital edition <date when="2024-08-04"><!-- (date) contains a date in any format. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html -->2024-08-04</date></edition>
+                <principal> <!-- (principal researcher) supplies the name of the principal researcher responsible for the creation of an electronic text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-principal.html -->
+                    Scanned, digitized, archived, and released by Principal Investigator <persName ref="https://orcid.org/0000-0003-2609-8133" xml:id="orcid-0000-0003-2609-8133">
+                        <addName xml:lang="ess-us">Sugri</addName>
+                        <forename xml:lang="eng-us">Lane</forename>
+                        <surname xml:lang="eng-us">Schwartz</surname>
+                    </persName>
+                </principal>
+                <funder> <!-- (funding body) specifies the name of an individual, institution, or organization responsible for the funding of a project or text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-funder.html -->
+                    <orgName ref="https://www.nsf.gov"> <!-- (organization name) contains an organizational name. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-orgName.html -->
+                        <location><!-- (location) defines the location of a place as a set of geographical coordinates, in terms of other named geo-political entities, or as an address. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-location.html --><country key="US"><!-- (country) contains the name of a geo-political unit, such as a nation, country, colony, or commonwealth, larger than or administratively superior to a region and smaller than a bloc. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-country.html -->United States</country></location> National Science Foundation
+                    </orgName> <note target="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1761680"><!-- (note) contains a note or annotation. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html -->Award 1761680</note>
+                </funder>
+            </editionStmt>
+ 
+            <publicationStmt xml:lang="eng-us"> <!-- (publication statement) groups information concerning the publication or distribution of an electronic or other text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html -->
+                
+                <authority xml:lang="eng-us"> <!-- (release authority) supplies the name of a person or other agency responsible for making a work available, other than a publisher or distributor. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-authority.html -->
+                    Released by <persName ref="https://orcid.org/0000-0003-2609-8133" sameAs="#orcid-0000-0003-2609-8133">Lane Schwartz</persName> under authorization by the <orgName>Native Village of Gambell</orgName>, <orgName>Sivuqaq, Inc</orgName>, the <orgName>City of Gambell</orgName>, the <orgName>Alaska Native Language Center</orgName>, and the <orgName>Bering Straight School District</orgName>
+                </authority>
+                
+                <availability status="restricted" xml:lang="eng-us"> <!-- (availability) supplies information about the availability of a text, for example any restrictions on its use or distribution, its copyright status, any licence applying to it, etc. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-availability.html -->
+                    <p><!-- (paragraph) marks paragraphs in prose. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html -->This resource is part of the linguistic and cultural heritage of the St. Lawrence Island Yupik people. By accessing this resource, you agree to treat this resource, the St. Lawrence Island Yupik language, the St. Lawrence Island Yupik culture, and the St. Lawrence Island Yupik people with dignity and respect. If you do not agree to these conditions, you may not access this resource and you may not make copies of this resource.</p>
+                    
+                    <ab><!-- (anonymous block) contains any component-level unit of text, acting as a container for phrase or inter level elements analogous to, but without the same constraints as, a paragraph. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-ab.html -->If you agree to these conditions, you may access this resource under the terms of the</ab> <licence target="https://creativecommons.org/licenses/by-nc/4.0/"><!-- contains information about a licence or other legal agreement applicable to the text https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-licence.html -->Creative Commons Attribution No-Commercial 4.0 license</licence>
+                </availability>
+                
+                <date when="2024-08-04"><!-- (date) contains a date in any format. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-date.html -->2023-07-30</date>
+                
+            </publicationStmt>
+            
+            <sourceDesc> <!-- (source description) describes the source(s) from which an electronic text was derived or generated, typically a bibliographic description in the case of a digitized text, or a phrase such as "born digital" for a text which has no previous existence. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-sourceDesc.html -->
+                
+                <biblFull>
+
+                    <titleStmt copyOf="#SY970B1972c"> <!-- (title statement) groups information about the title of a work and those responsible for its content. -->
+                        <title />
+                    </titleStmt>
+                    
+                    <publicationStmt> <!-- (publication statement) groups information concerning the publication or distribution of an electronic or other text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html -->
+
+                        <publisher xml:lang="eng-us">
+                            <orgName>
+                                <orgName type="division">Alaska Native Language Program</orgName>
+                                <orgName type="center">Center for Northern Educational Research</orgName>
+                                <orgName type="university">University of Alaska</orgName>
+                            </orgName>
+                        </publisher>
+
+
+                        <date>1972</date>
+
+                        <idno type="ANLA"><!-- (identifier) supplies any form of identifier used to identify some object, such as a bibliographic item, a person, a title, an organization, etc. in a standardized way. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-idno.html -->SY970B1972d</idno>
+                        
+                    </publicationStmt>
+
+
+                </biblFull>
+
+
+            </sourceDesc>
+
+        </fileDesc>
+
+
+        <encodingDesc xml:lang="eng-US"> <!-- (encoding description) documents the relationship between an electronic text and the source or sources from which it was derived. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-encodingDesc.html -->
+            <projectDesc xml:lang="eng-US"> <!-- (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-projectDesc.html -->
+                <p>Digitized as part of NSF Award 1761680 <name>NNA: Collaborative Research: Integrating Language Documentation and Computational Tools for Yupik, an Alaska Native Language</name></p>
+            </projectDesc>
+        </encodingDesc>
+
+
+        <profileDesc xml:lang="eng-US"> <!-- (text-profile description) provides a detailed description of non-bibliographic aspects of a text, specifically the languages and sublanguages used, the situation in which it was produced, the participants and their setting. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-profileDesc.html -->
+
+            <langUsage> <!-- (language usage) describes the languages, sublanguages, registers, dialects, etc. represented within a text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-langUsage.html -->
+                <language ident="ess-US">Akuzipik</language> <!-- (language) characterizes a single language or sublanguage used within a text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-language.html -->
+                <language ident="eng-US">English</language>
+            </langUsage>
+
+            <textDesc xml:lang="eng-US"> <!-- (text description) provides a description of a text in terms of its situational parameters. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-textDesc.html -->
+                <channel mode="w">Comb-bound reader</channel>
+                <constitution type="single">A single complete text</constitution>
+                <derivation type="translation">Translation of Central Yup'ik primer Nuk'aq</derivation>
+                <domain type="education">Yupik pre-primer</domain>
+                <factuality type="fiction">Kulusiq</factuality>
+                <interaction passive="world">published book</interaction>
+                <preparedness type="revised">published book</preparedness>
+                <purpose type="inform" degree="high">Yupik pre-primer</purpose>
+            </textDesc>
+
+            <settingDesc> <!-- (setting description) describes the setting or settings within which a language interaction takes place, or other places otherwise referred to in a text, edition, or metadata. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-settingDesc.html -->
+                <p>A Yupik boy and his dog.</p>
+            </settingDesc>
+        </profileDesc>
+
+    </teiHeader>
+
+
+    <text xml:lang="ess-us">
+
+        <front>
+
+            <pb n="" />
+            <titlePage type="cover" xml:lang="ess-us">
+                <docTitle>
+                    <titlePart xml:lang="ess-us">KULUSIQ</titlePart>
+                </docTitle>
+                <graphic url="cover.webp" />
+            </titlePage>
+
+
+            <pb n="" />
+            <div type="titlePage" xml:lang="ess-us" id="title">
+                <head xml:lang="ess-us">
+                    <title type="main" xml:lang="ess-us">KULUSIQ</title>
+                    <graphic url="title.webp" />
+                    <title type="sub" xml:lang="ess-us">Liinnaqsuwhaallghet</title>
+                </head>
+                
+                
+                <p xml:lang="ess-us">
+                    <s xml:lang="ess-us">Mumighquqaagut ukut Ayuqlig<lb/>tineng University of Alaskami<pc>.</pc></s><lb/>
+                    <s xml:lang="ess-us">Igaqegkiitneng <persName xml:lang="eng-us">Martha Teeluk</persName>nkuk<lb/> <persName xml:lang="eng-us">Marie N. Blanchett</persName>enkuk<pc>.</pc></s><lb/>
+                </p>
+                
+                <p xml:lang="ess-us">
+                    <s xml:lang="ess-us">Terugikat <persName xml:lang="eng-us">Paschal Afcan</persName>enkuk<lb/> <persName xml:lang="eng-us">Andrew Chikoyak</persName>enkuk terugikaqii<pc>.</pc></s><lb/>
+                </p>
+                
+                
+                <p xml:lang="ess-us">
+                    Ulimaaghi Alaskam Yupigan Akuzillghanun Ilanganun<lb/>
+                    Ulimaviganun Aywaaghmiit Liinnaqellghita<lb/>
+                    Naalkunnaqellghan<lb/>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s>
+                        University of Alaska<pc>,</pc> Fairbanks<lb/>
+                        <date when="1972">1972</date><lb/>
+                    </s>
+                </p>
+                
+            </div>
+            
+            
+            <pb n="" />
+            <div type="titlePage" xml:lang="eng-us">
+                <head xml:lang="eng-us">
+                    <title type="main" xml:lang="eng-us">Kulusiq</title>
+                    <title type="sub" xml:lang="eng-us">Pre-primer</title>
+                </head>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">Written by <persName xml:lang="eng-us">Martha Teeluk</persName> and <persName xml:lang="eng-us">Marie N. Blanchett</persName></s><lb/>
+                    <s xml:lang="eng-us">Illustrated by <persName xml:lang="eng-us">Paschal Afcan</persName> and <persName xml:lang="eng-us">Andrew Chikoyak</persName></s><lb/>
+                </p>
+                
+                
+                <p xml:lang="eng-us">
+                    <s>
+                        A Production of the<lb/>
+                        Alaska Native Language Program<pc>,</pc><lb/>
+                        a Division of the<lb/>
+                        Center for Northern Educational Research<lb/>
+                    </s>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s>
+                        University of Alaska<pc>,</pc> Fairbanks<lb/>
+                        <date when="1972">1972</date><lb/>
+                    </s>
+                </p>
+                
+            </div>
+            
+        </front>
+        
+        
+        <body xml:lang="ess-us">
+            <pb n="" /><div><head>Kulusiq</head></div>
+            
+            <pb n="1" />
+            <div type="page" n="1" >
+                <graphic url="p0001.webp"/>
+                <p>
+                    <s>Kulusiq<pc>.</pc></s><lb/>
+                    <s>Whani whaa Kulusiq<pc>.</pc></s>
+                </p>
+            </div>
+            <pb n="2" />
+            <div type="page" n="2" >
+                <graphic url="p0002.webp"/>
+                <p>
+                    <pc join="right">“</pc>
+                    <s>Tagi<pc join="left">,</pc> Kulusiq<pc>!</pc></s><lb/>
+                    <s>Tagi<pc join="left">!</pc></s>
+                    <pc join="left">”</pc>
+                </p>
+            </div>
+            <pb n="3" />
+            <div type="page" n="3" >
+              <graphic url="p0003.webp"/>
+              <p>
+                <s><pc join="right">“</pc>Kulusiq<pc join="left">,</pc> tagi<pc join="left">!</pc><pc join="left">”</pc></s><lb/>
+                <s><pc join="right">“</pc>Kulusiq<pc join="left">,</pc> tagi<pc join="left">!</pc><pc join="left">”</pc></s><lb/>
+                <s>Whavek Kulusiq tagiiq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="4" />
+            <div type="page" n="4" >
+              <graphic url="p0004.webp"/>
+              <p>
+                <s><pc join="right">“</pc>Aqfaaten<pc join="left">,</pc> Kulusiq<pc join="left">,</pc> aqfaaten<pc join="left">!</pc><pc join="left">”</pc></s><lb/>
+                <s>Kulusiq aqfaatuq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="5" />
+            <div type="page" n="5" >
+              <graphic url="p0005.webp"/>
+              <p>
+                <s>Paansu<pc join="left">.</pc></s><lb/>
+                <s>Whani whaa Paansu<pc join="left">.</pc></s><lb/>
+                <s>Whani whaa Kulusiim qikmii<pc join="left">,</pc> Paansu<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="6" />
+            <div type="page" n="6" >
+              <graphic url="p0006.webp"/>
+              <p>
+                <pc join="right">“</pc>
+                <s>Tagi<pc join="left">,</pc> Paansu<pc>!</pc></s><lb/>
+                <s>Tagi<pc join="left">!</pc></s>
+                <pc join="left">”</pc>
+              </p>
+            </div>
+            <pb n="7" />
+            <div type="page" n="7" >
+              <graphic url="p0007.webp"/>
+              <p>
+                <s><pc join="right">“</pc>Paansu<pc join="left">,</pc> tagi<pc join="left">!</pc><pc join="left">”</pc></s><lb/>
+                <s>Kulusiim qikmii tagiiq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="8" />
+            <div type="page" n="8" >
+              <graphic url="p0008.webp"/>
+              <p>
+                <s><pc join="right">“</pc>Pangalgi<pc join="left">,</pc> Paansu<pc join="left">,</pc> pangalgi<pc join="left">!</pc><pc join="left">”</pc></s><lb/>
+                <s>Paansu pangalegtuq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="9" />
+            <div type="page" n="9" >
+              <graphic url="p0009.webp"/>
+              <p>
+                <s>Kulusiinkuk Paansunkuk tagiiquk<pc join="left">.</pc></s><lb/>
+                <s>Kulusiinkuk Paansunkuk aqfaatuk<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="10"/>
+            <div type="page" n="10">
+              <graphic url="p0010.webp"/>
+              <p>
+                  <pc join="right">“</pc>
+                  <s>Aglaa<pc join="left">!</pc></s><lb/>
+                  <s>Aglaa<pc join="left">,</pc> Paansu<pc join="left">,</pc> aglaa<pc join="left">!</pc></s>
+                  <pc join="left">”</pc>
+              </p>
+            </div>
+            <pb n="11"/>
+            <div type="page" n="11">
+              <graphic url="p0011.webp"/>
+              <p>
+                <s>Paansu aghulaquq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="12"/>
+            <div type="page" n="12">
+              <graphic url="p0012.webp"/>
+              <s>Kulusiqlu aghulaquq<pc join="left">.</pc></s>
+            </div>
+            <pb n="13"/>
+            <div type="page" n="13">
+              <graphic url="p0013.webp"/>
+              <s>Kulusiinkuk Paansunkuk aghulaquk<pc join="left">.</pc></s>
+            </div>
+            
+        </body>
+        
+        
+        <back>
+    
+            
+            <pb n=""/>
+            <div xml:lang="eng-us">
+                <list type="translation" xml:lang="eng-us">
+                    <label>1<pc join="left">.</pc></label> <item>Kulusiq. Here is Kulusiq.</item><lb/>
+                    <label>2<pc join="left">.</pc></label> <item>Come, Kulusiq! Come!</item><lb/>
+                    <label>3<pc join="left">.</pc></label> <item>Come, Kulusiq! Here Kulusiq comes.</item><lb/>
+                    <label>4<pc join="left">.</pc></label> <item>Run, Kulusiq, run! Kulusiq runs.</item><lb/>
+                    <label>5<pc join="left">.</pc></label> <item>Paansu. Here is Paansu. Here is Kulusiq's dog Paansu</item><lb/>
+                    <label>6<pc join="left">.</pc></label> <item>Come, Paansu! Come!</item><lb/>
+                    <label>7<pc join="left">.</pc></label> <item>Paansu, come! Kulusiq's dog comes.</item><lb/>
+                    <label>8<pc join="left">.</pc></label> <item>Run Paansu, run! Paansu runs.</item><lb/>
+                    <label>9<pc join="left">.</pc></label> <item>Kulusiq and Paansu are coming. Kulusiq and Paansu are running.</item><lb/>
+                    <label>10<pc join="left">.</pc></label> <item>Go! Go, Paansu, go!</item><lb/>
+                    <label>11<pc join="left">.</pc></label> <item>Paansu goes away.</item><lb/>
+                    <label>12<pc join="left">.</pc></label> <item>Kulusiq also goes away.</item><lb/>
+                    <label>13<pc join="left">.</pc></label> <item>Kulusiq and Paansu go away.</item><lb/>
+                </list>
+            </div>
+            
+        </back>
+        
+    </text>
+    
+    
+</TEI>
+
