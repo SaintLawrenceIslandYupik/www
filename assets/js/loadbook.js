@@ -1,5 +1,5 @@
-function loadBookFromXML(xmlFileName, imgPrefix) {
-  alert("Loading book");
+function loadBookFromXML(xmlFileName, imgPrefixes) {
+  //alert("Loading book 1");
   let c = new CETEI();
   let behaviors = {
     "tei": {
@@ -38,10 +38,10 @@ function loadBookFromXML(xmlFileName, imgPrefix) {
         let content = new Image();
         //alert(elt.getAttribute("url"));
         content.src = elt.getAttribute("url");
-        content.src = imgPrefix + "/" + elt.getAttribute("url"); //.replaceAll("/", "/"+imgPrefix+".webp"); //this.rw(elt.getAttribute("url"));
+        content.src = imgPrefixes[0] + "/" + elt.getAttribute("url"); //.replaceAll("/", "/"+imgPrefix+".webp"); //this.rw(elt.getAttribute("url"));
         //alert(content.src);
-        //content.srcset = imgPrefixes[0] + "/" + elt.getAttribute("url") + " , " + imgPrefixes[1] + "/" + elt.getAttribute("url");
-        //content.sizes="(max-width: 600px) 480px, 800px";
+        content.srcset = imgPrefixes[0] + "/" + elt.getAttribute("url") + " 185w , " + imgPrefixes[1] + "/" + elt.getAttribute("url") + " 738w";
+        content.sizes="(max-width: 600px) 200px, 750px";
         if (elt.hasAttribute("width")) {
           content.setAttribute("width",elt.getAttribute("width"));
         }
@@ -55,8 +55,12 @@ function loadBookFromXML(xmlFileName, imgPrefix) {
   c.addBehaviors(behaviors);
   //c.getHTML5('assets/tei/demo.xml', function(data){
   c.getHTML5(xmlFileName, function(data){
-    //document.getElementsByClassName('bookContent')[0].appendChild(data);
-      document.getElementsByTagName('body')[0].appendChild(data);
+    document.getElementsByClassName('bookContent')[0].appendChild(data);
+    //  document.getElementsByTagName('body')[0].appendChild(data);
   });
   
 }
+
+
+loadBookFromXML("book.xml", ["img/25", "img/100"]);
+
