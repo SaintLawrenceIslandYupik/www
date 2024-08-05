@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href={{ "assets/css/tei.css" | relative_url }}>
+  <script src={{ "assets/js/CETEI.js" | relative_url }}></script>
+  <script src={{ "assets/js/loadbook.js" | relative_url }}></script>
+  <script type="text/javascript">
+    //alert("Click start to begin reading");
+    
+    //alert("There");
+  </script>
+  <script src={{ "assets/js/buttons.js" | relative_url }}></script>
+</head>
+
+  <body>
+    <div class="navButtons" style="text-align: center; margin-left: auto; margin-right: auto; " >
+      <!--<span style="display: inline-block;">foo</span>-->
+      <button type="button" class="back" onclick="startBook()" style="position: relative; width:15%; height: 5em;" disabled >⇤</button>
+      <button type="button" class="back" onclick="prevPage()" style="position: relative; width:15%; height: 5em;" disabled >←</button>
+      <button type="button" class="start" onclick="startBook()" style="position: relative; width:20%; height: 5em;">Start</button>
+      <button type="button" class="next" onclick="nextPage()" style="position: relative; width:15%; height: 5em;" disabled>→</button>
+      <button type="button" class="next" onclick="lastPage()" style="position: relative; width:15%; height: 5em;" disabled>⇥ </button>
+      <!--<span style="display: inline-block; text-align: right;">bar</span>-->
+    </div>
+    <div class="bookContent" style="text-align: center;"></div>
+        {{ content }}
+  </body>
+</html>
