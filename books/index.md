@@ -5,11 +5,11 @@ title:  Akuzipigelta
 
 # Digitized books
 
-[Kulusiinkut](kulusiinkut)
+[Kulusiinkut](Kulusiinkut)
 
-[Kulusiq](kulusiq)
+[Kulusiq](Kulusiq)
 
 
-# [About]({{ site.baseurl }}/about)
+[About]({{ site.baseurl }}/about)
 
 
