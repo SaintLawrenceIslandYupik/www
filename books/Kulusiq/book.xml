@@ -94,7 +94,7 @@
 
                         <date>1972</date>
 
-                        <idno type="ANLA"><!-- (identifier) supplies any form of identifier used to identify some object, such as a bibliographic item, a person, a title, an organization, etc. in a standardized way. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-idno.html -->SY970B1972d</idno>
+                        <idno type="ANLA"><!-- (identifier) supplies any form of identifier used to identify some object, such as a bibliographic item, a person, a title, an organization, etc. in a standardized way. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-idno.html -->SY970B1972c</idno>
                         
                     </publicationStmt>
 
@@ -157,7 +157,6 @@
             <div type="titlePage" xml:lang="ess-us" id="title">
                 <head xml:lang="ess-us">
                     <title type="main" xml:lang="ess-us">KULUSIQ</title>
-                    <graphic url="title.webp" />
                     <title type="sub" xml:lang="ess-us">Liinnaqsuwhaallghet</title>
                 </head>
                 
@@ -168,7 +167,7 @@
                 </p>
                 
                 <p xml:lang="ess-us">
-                    <s xml:lang="ess-us">Terugikat <persName xml:lang="eng-us">Paschal Afcan</persName>enkuk<lb/> <persName xml:lang="eng-us">Andrew Chikoyak</persName>enkuk terugikaqii<pc>.</pc></s><lb/>
+                    <s xml:lang="ess-us">Terugikat <persName xml:lang="eng-us">Paschal Afcan</persName>enkuk<lb/> <persName xml:lang="eng-us">Andrew Chikoyak</persName>enkuk terugikaqiik<pc>.</pc></s><lb/>
                 </p>
                 
                 
@@ -205,7 +204,7 @@
                     <s>
                         A Production of the<lb/>
                         Alaska Native Language Program<pc>,</pc><lb/>
-                        a Division of the<lb/>
+                        a division of the<lb/>
                         Center for Northern Educational Research<lb/>
                     </s>
                 </p>
@@ -332,7 +331,25 @@
         
         <back>
     
-            
+          <pb n=""/>
+          <div xml:lang="ess-us">
+              <p>Akuzillghet Atuqellghet Igani Ukuni</p>
+              
+              <list type="vocabulary" xml:lang="ess-us">
+                  <label>1<pc join="left">.</pc></label> <item>Kulusiq<lb/>whani<lb/>whaa<lb/></item>
+                  <label>2<pc join="left">.</pc></label> <item>Tagi<lb/></item>
+                  <label>3<pc join="left">.</pc></label> <item>Whavek<lb/>Tagiiq<lb/></item>
+                  <label>4<pc join="left">.</pc></label> <item>Aqfaaten<lb/>aqfaatuq<lb/></item>
+                  <label>5<pc join="left">.</pc></label> <item>Paansu<lb/>Kulusiim<lb/>qikmii<lb/></item>
+                  <label>8<pc join="left">.</pc></label> <item>Pangalgi<lb/>pangalegtuq<lb/></item>
+                  <label>9<pc join="left">.</pc></label> <item>Kulusiinkuk<lb/>Paansunkuk<lb/>tagiiquk<lb/>aqfaatuk<lb/></item>
+                  <label>10<pc join="left">.</pc></label> <item>Aglaa<lb/></item>
+                  <label>11<pc join="left">.</pc></label> <item>aghulaquq<lb/></item>
+                  <label>12<pc join="left">.</pc></label> <item>Kulusiqlu<lb/></item>
+                  <label>13<pc join="left">.</pc></label> <item>aghulaquk<lb/></item>
+              </list>
+          </div>
+          
             <pb n=""/>
             <div xml:lang="eng-us">
                 <list type="translation" xml:lang="eng-us">
