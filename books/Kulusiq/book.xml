@@ -56,7 +56,14 @@
                     </orgName> <note target="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1761680"><!-- (note) contains a note or annotation. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-note.html -->Award 1761680</note>
                 </funder>
             </editionStmt>
- 
+            
+            <extent><!-- (extent) describes the approximate size of a text stored on some carrier medium or of some other object, digital or non-digital, specified in any convenient units. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-extent.html -->
+                <measure unit="KiB" quantity="25"><!-- (measure) contains a word or phrase referring to some quantity of an object or commodity, usually comprising a number, a unit, and a commodity name. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-measure.html -->25 KiB</measure>
+                <measure unit="tokens" quantity="58" xml:id="YupikWordTokens">58 Yupik word tokens</measure>
+                <measure unit="types" quantity="21" xml:id="YupikWordTypes">21 Yupik word types</measure>
+                <measure unit="sentences" quantity="25">25 Yupik sentences</measure>
+            </extent>
+            
             <publicationStmt xml:lang="eng-us"> <!-- (publication statement) groups information concerning the publication or distribution of an electronic or other text. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html -->
                 
                 <authority xml:lang="eng-us"> <!-- (release authority) supplies the name of a person or other agency responsible for making a work available, other than a publisher or distributor. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-authority.html -->
