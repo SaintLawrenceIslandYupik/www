@@ -1,6 +1,6 @@
 ---
 layout: reader
-title:  Akuzipigelta
+title:  Kulusiinkut
 ---
 
 
