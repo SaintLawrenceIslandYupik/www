@@ -31,3 +31,5 @@ title:  Akuzipigelta
 
 [Source code](https://github.com/saintlawrenceislandyupik)
 
+[NVG Resolution 24-12](https://github.com/SaintLawrenceIslandYupik/permission/raw/master/Resolution%20No.%2024-12.pdf)
+
