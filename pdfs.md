@@ -17,6 +17,9 @@ title:  Akuzipigelta
 
 [Body part flashcards](https://drive.google.com/file/d/1y32fTbfa-DOTObwoSwh7wW2_JCOSM4Oc/view?usp=sharing)
 
+# Smithsonian
+
+[Akuzilleput Igaqullghet - Our Words Put to Paper](https://library.si.edu/digital-library/book/akuzilleputigaqu03krup)
 
 # About this site
 
