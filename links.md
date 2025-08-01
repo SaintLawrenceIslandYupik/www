@@ -5,7 +5,7 @@ title:  Akuzipigelta
 
 # Online tools
 
-[Akuzipik dictionary](https://bhunt6.github.io/akuzipigestun-sangaawa/)
+[Akuzipik dictionary](https://akuzipik.info/dictionary)
 
 [Morphological analyzer](https://bhunt6.github.io/itemquulteki/)
 
