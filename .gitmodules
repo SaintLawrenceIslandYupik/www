@@ -1,3 +1,4 @@
 [submodule "dictionary"]
 	path = dictionary
 	url = https://github.com/bhunt6/akuzipigestun-sangaawa
+	branch = main
