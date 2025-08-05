@@ -7,7 +7,7 @@ title:  Akuzipigelta
 
 [Early elementary readers](https://drive.google.com/drive/folders/1IRk8juiSFMwVBquOTgbILK63j33iLToJ?usp=share_link)
 
-[Higher elementary readers](https://drive.google.com/drive/folders/1IRk8juiSFMwVBquOTgbILK63j33iLToJ?usp=share_link)
+[Higher elementary readers](https://drive.google.com/drive/folders/1CckksMbXDI-n-RAJCcRJMhOe0wlOc36O?usp=share_link)
 
 [Lore of St. Lawrence Island](https://drive.google.com/drive/folders/1hlCsROj2MfXwpLDIvIanJnQnWLQ7mNsq?usp=share_link)
 
