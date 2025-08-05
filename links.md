@@ -5,6 +5,8 @@ title:  Akuzipigelta
 
 # Online tools
 
+[Akuzle word guessing game](https://bhunt6.github.io/Akuzipik-Word-Guessing-Game)
+
 [Akuzipik dictionary](https://akuzipik.info/dictionary)
 
 [Morphological analyzer](https://bhunt6.github.io/itemquulteki/)
