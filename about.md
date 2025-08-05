@@ -5,7 +5,7 @@ title:  About
 
 # About
 
-This web site was developed by [Sugri Lane Schwartz](mailto:lane.schwartz@alaska.edu) of the University of Alaska Fairbanks, in consultation with
+This web site was developed by [Sugri Lane Woodrose Schwartz](mailto:lane.schwartz@alaska.edu) of the University of Alaska Fairbanks, in consultation with
 
 * the sovereign tribal and governing elected councils of St. Lawrence Island, Alaska
    - [The Native Village of Gambell](https://github.com/SaintLawrenceIslandYupik/permission/raw/master/Native%20Village%20of%20Gambell.pdf)
@@ -34,6 +34,6 @@ If you agree to these conditions, you may access this resource under the terms o
 
 # Contact
 
-[Sugri Lane Schwartz](mailto:lane.schwartz@alaska.edu)
+[Sugri Lane Woodrose Schwartz](mailto:lane.schwartz@alaska.edu)
 
-[Piitesighaq Sylvia Schreiner](mailto:sschrei2@gmu.edu)
+[Piitesighaq Sylvia Woodrose Schwartz](mailto:sschrei2@gmu.edu)
