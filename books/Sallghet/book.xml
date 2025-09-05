@@ -399,52 +399,52 @@
                 <p>Akuzillghet Ukuni Igani Atuqegkat</p>
                 
                 <list type="vocabulary" xml:lang="ess-us">
-                    <label>1<pc join="left">.</pc></label> <item>Teghtaa</item>
-                    <label>2<pc join="left">.</pc></label> <item>Maketen</item>
-                    <label>3<pc join="left">.</pc></label> <item>Aghmigi</item>
-                    <label>4<pc join="left">.</pc></label> <item>Aatigu</item>
-                    <label>5<pc join="left">.</pc></label> <item>Neghi</item>
-                    <label>6<pc join="left">.</pc></label> <item>Meghi</item>
-                    <label>7<pc join="left">.</pc></label> <item>Aani</item>
-                    <label>8<pc join="left">.</pc></label> <item>Naghaaq</item>
-                    <label>9<pc join="left">.</pc></label> <item>Naghaaghi</item>
-                    <label>10<pc join="left">.</pc></label> <item>Aqfaaten</item>
-                    <label>11<pc join="left">.</pc></label> <item>Qetgeghi</item>
-                    <label>12<pc join="left">.</pc></label> <item>Piyaagi</item>
-                    <label>13<pc join="left">.</pc></label> <item>Mayaa</item>
-                    <label>14<pc join="left">.</pc></label> <item>Ukigi</item>
-                    <label>15<pc join="left">.</pc></label> <item>Pugimi</item>
-                    <label>16<pc join="left">.</pc></label> <item>Taglaa</item>
-                    <label>17<pc join="left">.</pc></label> <item>Aglaa</item>
-                    <label>18<pc join="left">.</pc></label> <item>Iitghi</item>
-                    <label>19<pc join="left">.</pc></label> <item>Ingaghten</item>
-                    <label>20<pc join="left">.</pc></label> <item>Qavaa</item>
+                    <label>1<pc join="left">.</pc></label> <item>Teghtaa</item><lb/>
+                    <label>2<pc join="left">.</pc></label> <item>Maketen</item><lb/>
+                    <label>3<pc join="left">.</pc></label> <item>Aghmigi</item><lb/>
+                    <label>4<pc join="left">.</pc></label> <item>Aatigu</item><lb/>
+                    <label>5<pc join="left">.</pc></label> <item>Neghi</item><lb/>
+                    <label>6<pc join="left">.</pc></label> <item>Meghi</item><lb/>
+                    <label>7<pc join="left">.</pc></label> <item>Aani</item><lb/>
+                    <label>8<pc join="left">.</pc></label> <item>Naghaaq</item><lb/>
+                    <label>9<pc join="left">.</pc></label> <item>Naghaaghi</item><lb/>
+                    <label>10<pc join="left">.</pc></label> <item>Aqfaaten</item><lb/>
+                    <label>11<pc join="left">.</pc></label> <item>Qetgeghi</item><lb/>
+                    <label>12<pc join="left">.</pc></label> <item>Piyaagi</item><lb/>
+                    <label>13<pc join="left">.</pc></label> <item>Mayaa</item><lb/>
+                    <label>14<pc join="left">.</pc></label> <item>Ukigi</item><lb/>
+                    <label>15<pc join="left">.</pc></label> <item>Pugimi</item><lb/>
+                    <label>16<pc join="left">.</pc></label> <item>Taglaa</item><lb/>
+                    <label>17<pc join="left">.</pc></label> <item>Aglaa</item><lb/>
+                    <label>18<pc join="left">.</pc></label> <item>Iitghi</item><lb/>
+                    <label>19<pc join="left">.</pc></label> <item>Ingaghten</item><lb/>
+                    <label>20<pc join="left">.</pc></label> <item>Qavaa</item><lb/>
                 </list>
             </div>
             
             <pb n=""/>
             <div xml:lang="eng-us">
                 <list type="translation" xml:lang="eng-us">
-                    <label>1<pc join="left">.</pc></label> <item>Wake up<pc join="left">.</pc></item>
-                    <label>2<pc join="left">.</pc></label> <item>Get up<pc join="left">.</pc></item>
-                    <label>3<pc join="left">.</pc></label> <item>Wash<pc join="left">.</pc></item>
-                    <label>4<pc join="left">.</pc></label> <item>Get dressed<pc join="left">.</pc></item>
-                    <label>5<pc join="left">.</pc></label> <item>Eat<pc join="left">.</pc></item>
-                    <label>6<pc join="left">.</pc></label> <item>Drink<pc join="left">.</pc></item>
-                    <label>7<pc join="left">.</pc></label> <item>Go out<pc join="left">.</pc></item>
-                    <label>8<pc join="left">.</pc></label> <item>Play<pc join="left">.</pc></item>
-                    <label>9<pc join="left">.</pc></label> <item>Play with toys<pc join="left">.</pc></item>
-                    <label>10<pc join="left">.</pc></label> <item>Run<pc join="left">.</pc></item>
-                    <label>11<pc join="left">.</pc></label> <item>Jump<pc join="left">.</pc></item>
-                    <label>12<pc join="left">.</pc></label> <item>Walk<pc join="left">.</pc></item>
-                    <label>13<pc join="left">.</pc></label> <item>Climb up<pc join="left">.</pc></item>
-                    <label>14<pc join="left">.</pc></label> <item>Go down<pc join="left">.</pc></item>
-                    <label>15<pc join="left">.</pc></label> <item>Swim<pc join="left">.</pc></item>
-                    <label>16<pc join="left">.</pc></label> <item>Go up<pc join="left">.</pc></item>
-                    <label>17<pc join="left">.</pc></label> <item>Go home<pc join="left">.</pc></item>
-                    <label>18<pc join="left">.</pc></label> <item>Go in<pc join="left">.</pc></item>
-                    <label>19<pc join="left">.</pc></label> <item>Go to bed<pc join="left">.</pc></item>
-                    <label>20<pc join="left">.</pc></label> <item>Sleep<pc join="left">.</pc></item>
+                    <label>1<pc join="left">.</pc></label> <item>Wake up<pc join="left">.</pc></item><lb/>
+                    <label>2<pc join="left">.</pc></label> <item>Get up<pc join="left">.</pc></item><lb/>
+                    <label>3<pc join="left">.</pc></label> <item>Wash<pc join="left">.</pc></item><lb/>
+                    <label>4<pc join="left">.</pc></label> <item>Get dressed<pc join="left">.</pc></item><lb/>
+                    <label>5<pc join="left">.</pc></label> <item>Eat<pc join="left">.</pc></item><lb/>
+                    <label>6<pc join="left">.</pc></label> <item>Drink<pc join="left">.</pc></item><lb/>
+                    <label>7<pc join="left">.</pc></label> <item>Go out<pc join="left">.</pc></item><lb/>
+                    <label>8<pc join="left">.</pc></label> <item>Play<pc join="left">.</pc></item><lb/>
+                    <label>9<pc join="left">.</pc></label> <item>Play with toys<pc join="left">.</pc></item><lb/>
+                    <label>10<pc join="left">.</pc></label> <item>Run<pc join="left">.</pc></item><lb/>
+                    <label>11<pc join="left">.</pc></label> <item>Jump<pc join="left">.</pc></item><lb/>
+                    <label>12<pc join="left">.</pc></label> <item>Walk<pc join="left">.</pc></item><lb/>
+                    <label>13<pc join="left">.</pc></label> <item>Climb up<pc join="left">.</pc></item><lb/>
+                    <label>14<pc join="left">.</pc></label> <item>Go down<pc join="left">.</pc></item><lb/>
+                    <label>15<pc join="left">.</pc></label> <item>Swim<pc join="left">.</pc></item><lb/>
+                    <label>16<pc join="left">.</pc></label> <item>Go up<pc join="left">.</pc></item><lb/>
+                    <label>17<pc join="left">.</pc></label> <item>Go home<pc join="left">.</pc></item><lb/>
+                    <label>18<pc join="left">.</pc></label> <item>Go in<pc join="left">.</pc></item><lb/>
+                    <label>19<pc join="left">.</pc></label> <item>Go to bed<pc join="left">.</pc></item><lb/>
+                    <label>20<pc join="left">.</pc></label> <item>Sleep<pc join="left">.</pc></item><lb/>
                 </list>
             </div>
             
