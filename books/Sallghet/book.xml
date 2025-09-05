@@ -425,7 +425,7 @@
             <pb n=""/>
             <div xml:lang="eng-us">
                 <list type="translation" xml:lang="eng-us">
-                    <label>1<pc join="left">.</pc></label> <item>Wake up<pc join="left">.</pc></item><lb/>
+                    <label>1<pc join="left">.</pc></label> <item><s>Wake up<pc join="left">.</pc></s></item><lb/>
                     <label>2<pc join="left">.</pc></label> <item>Get up<pc join="left">.</pc></item><lb/>
                     <label>3<pc join="left">.</pc></label> <item>Wash<pc join="left">.</pc></item><lb/>
                     <label>4<pc join="left">.</pc></label> <item>Get dressed<pc join="left">.</pc></item><lb/>
