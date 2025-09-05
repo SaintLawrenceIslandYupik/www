@@ -1,0 +1,456 @@
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://lodel.org/ns/tei/tei.openedition.1.6.3/document.xsd">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt xml:id="SY970B1972b">
+            
+                <title type="main" xml:lang="ess-us">Sallghet</title>
+                
+                <title type="main" xml:lang="eng-us">Things to do</title>
+                
+                <author xml:lang="eng-us" role="bookAuthor">
+                    the staff of the <orgName xml:lang="eng-us">Eskimo Language Workshop</orgName>
+                </author>
+                
+                <editor xml:lang="eng-us" role="bookIllustrator">
+                  <persName>
+                      <forename xml:lang="eng-us">Geri</forename>
+                      <surname xml:lang="eng-us">Rudolph</surname>
+                  </persName>
+                </editor>
+                
+                <editor role="bookTranslator">
+                    <persName>
+                        <forename xml:lang="eng-us">Adelinda</forename>
+                        <surname xml:lang="eng-us">Badten</surname>
+                    </persName>
+                </editor>
+                
+            </titleStmt>
+
+
+            <editionStmt>
+                <edition>
+                <principal>
+                    Scanned, digitized, archived, and released by Principal Investigator <persName ref="https://orcid.org/0000-0003-2609-8133" xml:id="orcid-0000-0003-2609-8133">
+                        <addName xml:lang="ess-us">Sugri</addName>
+                        <forename xml:lang="eng-us">Lane</forename>
+                        <surname xml:lang="eng-us">Schwartz</surname>
+                    </persName>
+                </principal>
+                <funder>
+                    <orgName ref="https://www.nsf.gov">
+                        <location><country key="US">United States</country></location> National Science Foundation
+                    </orgName> <note target="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1761680">Award 1761680</note>
+                </funder>
+            </editionStmt>
+ 
+            <publicationStmt xml:lang="eng-us">
+                
+                <authority xml:lang="eng-us">
+                    Released by <persName ref="https://orcid.org/0000-0003-2609-8133" sameAs="#orcid-0000-0003-2609-8133">Lane Schwartz</persName> under authorization by the <orgName>Native Village of Gambell</orgName>, <orgName>Sivuqaq, Inc</orgName>, the <orgName>City of Gambell</orgName>, the <orgName>Alaska Native Language Center</orgName>, and the <orgName>Bering Straight School District</orgName>
+                </authority>
+                
+                <availability status="restricted" xml:lang="eng-us">
+					<p xml:lang="eng-us">
+						<s xml:lang="eng-us">This resource is part of the linguistic and cultural heritage of the St. Lawrence Island Yupik people.</s>
+						<s xml:lang="eng-us">By accessing this resource, you agree to treat this resource, the St. Lawrence Island Yupik language, the St. Lawrence Island Yupik culture, and the St. Lawrence Island Yupik people with dignity and respect.</s>
+						<s xml:lang="eng-us">If you do not agree to these conditions, you may not access this resource and you may not make copies of this resource.</s>
+					</p>
+                    <ab xml:lang="eng-us">
+                    	If you agree to these conditions, you may access this resource under the terms of the
+                    </ab>
+                    <licence xml:lang="eng-us" target="https://creativecommons.org/licenses/by-nc/4.0/">
+                    	Creative Commons Attribution No-Commercial 4.0 license
+                    </licence>
+                </availability>
+                
+                <date when="2025-09-05">
+                
+            </publicationStmt>
+            
+            <sourceDesc>
+                
+                <biblFull>
+
+                    <titleStmt copyOf="#SY970B1972b">
+                        <title />
+                    </titleStmt>
+                    
+                    <publicationStmt>
+
+                        <publisher xml:lang="eng-us">
+                            <orgName>
+                                <orgName type="division">Alaska Native Language Program</orgName>
+                                <orgName type="center">Center for Northern Educational Research</orgName>
+                                <orgName type="university">University of Alaska</orgName>
+                            </orgName>
+                        </publisher>
+
+
+                        <date>1972</date>
+
+                        <idno type="ANLA">SY970B1972b</idno>
+                        
+                    </publicationStmt>
+
+
+                </biblFull>
+
+
+            </sourceDesc>
+
+        </fileDesc>
+
+
+        <encodingDesc xml:lang="eng-US">
+            <projectDesc xml:lang="eng-US">
+                <p>Digitized as part of NSF Award 1761680 <name>NNA: Collaborative Research: Integrating Language Documentation and Computational Tools for Yupik, an Alaska Native Language</name></p>
+            </projectDesc>
+        </encodingDesc>
+
+
+        <profileDesc xml:lang="eng-US">
+
+            <langUsage>
+                <language ident="ess-US">Akuzipik</language>
+                <language ident="eng-US">English</language>
+            </langUsage>
+
+            <textDesc xml:lang="eng-US">
+                <channel mode="w">Comb-bound reader</channel>
+                <constitution type="single">A single complete text</constitution>
+                <derivation type="translation">Translation of Central Yupik primer Cacirkat</derivation>
+                <domain type="education">Yupik pre-primer</domain>
+                <factuality type="fiction"/>
+                <interaction passive="world">published book</interaction>
+                <preparedness type="revised">published book</preparedness>
+                <purpose type="inform" degree="high">Yupik pre-primer</purpose>
+            </textDesc>
+
+            <settingDesc>
+                <p>A Yupik girl performs daily activities</p>
+            </settingDesc>
+        </profileDesc>
+
+    </teiHeader>
+
+
+    <text xml:lang="ess-us">
+
+        <front>
+
+            <pb n="" />
+            <titlePage type="cover" xml:lang="ess-us">
+                <docTitle>
+                    <titlePart xml:lang="ess-us">SALLGHET</titlePart>
+                </docTitle>
+                <graphic url="cover.webp" />
+            </titlePage>
+
+
+            <pb n="" />
+            <div type="titlePage" xml:lang="ess-us" id="title">
+                <head xml:lang="ess-us">
+                    <title type="main" xml:lang="ess-us">SALLGHET</title>
+                </head>
+                
+                <p xml:lang="ess-us">
+                    Igaqegkaagut Yupigestun<lb/>
+                    Ulimavigem Igaqestengitneng<lb/>
+                    Terugistengat Ciiri<lb/>
+                </p>
+                
+                <p xml:lang="ess-us">
+                    Ulimaaghi Alaskam Yupigan Akuzillghanun Ilanganun<lb/>
+                    Ulimaviganun Aywaaghmiit Liinnaqellghita<lb/>
+                    Naalkunnaqellghita<lb/>
+                    <date when="1972">1972</date><lb/>
+                </p>
+                
+                <p xml:lang="ess-us">
+                    Igaquqat Kiigem Liinnakfigani Akuzilleghmun<lb/>
+                </p>
+                
+                <p xml:lang="ess-us">
+                    <s xml:lang="ess-us">Mumigtekaagut Ukut Igat Ayuqlit Yupigita Igaqellghitneng<pc>.</pc></s><lb/>
+                    <s xml:lang="ess-us">Mumigtestetekaat St<pc>.</pc> Lawrence Island-eghmiistun Adelinda Badten<pc>.</pc></s><lb/>
+                </p>
+                
+            </div>
+            
+            
+            <pb n="" />
+            <div type="titlePage" xml:lang="eng-us">
+                <head xml:lang="eng-us">
+                    <title type="main" xml:lang="eng-us">THINGS TO DO</title>
+                </head>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">Written by the staff</lb> 
+                    of <orgName xml:lang="eng-us">the Eskimo Language Workshop</orgName></lb>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">Illustrated by</lb>
+                    <persName xml:lang="eng-us">Geri Rudolph</persName></s><lb/>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">Translated from Mainland Yupik<lb/>
+                    into St<pc>.</pc> Lawrence Island Yupik<lb/>
+                    by <persName xml:lang="eng-us">Adelinda Badten</persName></s><lb/>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">
+                        A Production of the<lb/>
+                        Alaska Native Language Program<lb/>
+                        a division of the<lb/>
+                        Center for Northern Educational Research<lb/>
+                    </s>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">
+                        University of Alaska, Fairbanks<lb/>
+                        <date when="1972">1972</date><lb/>
+                    </s>
+                </p>
+                
+                <p xml:lang="eng-us">
+                    <s xml:lang="eng-us">
+                        Printed at the Summer Institute of Linguistics<lb/>
+                    </s>
+                </p>
+            </div>
+            
+            <pb n="" />
+            <div type="titlePage" xml:lang="ess-us" id="title">
+                <head xml:lang="ess-us">
+                    <title type="main" xml:lang="ess-us">SALLGHET</title>
+                </head>
+                
+                <p xml:lang="ess-us">
+                    <s xml:lang="ess-us">Mumigtekaagut Ukut Igat Ayuqlit<lb/>Yupigita Igaqellghitneng.</s>
+                    <s xml:lang="ess-us">Mumig<lb/>testetekaat St. Lawrence Island-<lb/>eghmiistun Adelinda Badten<pc>.</pc>
+                    </s>
+                </p>
+                
+            </div>
+        </front>
+        
+        
+        <body xml:lang="ess-us">
+            
+            <pb n="1" />
+            <div type="page" n="1" >
+                <graphic url="p0001.webp"/>
+                <p>
+                  <s>Teghtaa<pc join="left">.</pc></s>
+                </p>
+            </div>
+            <pb n="2" />
+            <div type="page" n="2" >
+                <graphic url="p0002.webp"/>
+                <p>
+                  <s>Maketen<pc join="left">.</pc></s>
+                </p>
+            </div>
+            <pb n="3" />
+            <div type="page" n="3" >
+              <graphic url="p0003.webp"/>
+              <p>
+                  <s>Aghmigi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="4" />
+            <div type="page" n="4" >
+              <graphic url="p0004.webp"/>
+              <p>
+                  <s>Aatigu<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="5" />
+            <div type="page" n="5" >
+              <graphic url="p0005.webp"/>
+              <p>
+                  <s>Neghi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="6" />
+            <div type="page" n="6" >
+              <graphic url="p0006.webp"/>
+              <p>
+                  <s>Meghi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="7" />
+            <div type="page" n="7" >
+              <graphic url="p0007.webp"/>
+              <p>
+                  <s>Aani<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="8" />
+            <div type="page" n="8" >
+              <p>
+                  <s>Naghaaq<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="9" />
+            <div type="page" n="9" >
+              <graphic url="p0009.webp"/>
+              <p>
+                  <s>Naghaaghi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="10"/>
+            <div type="page" n="10">
+              <graphic url="p0010.webp"/>
+              <p>
+                  <s>Aqfaaten<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="11"/>
+            <div type="page" n="11">
+              <graphic url="p0011.webp"/>
+              <p>
+                  <s>Qetgeghi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="12"/>
+            <div type="page" n="12">
+              <graphic url="p0012.webp"/>
+              <p>
+                  <s>Piyaagi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="13"/>
+            <div type="page" n="13">
+              <graphic url="p0013.webp"/>
+              <p>
+                  <s>Mayaa<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="14"/>
+            <div type="page" n="14">
+              <graphic url="p0014.webp"/>
+              <p>
+                  <s>Ukigi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="15"/>
+            <div type="page" n="15">
+              <graphic url="p0015.webp"/>
+              <p>
+                  <s>Pugimi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="16"/>
+            <div type="page" n="16">
+              <graphic url="p0016.webp"/>
+              <p>
+                  <s>Taglaa<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="17"/>
+            <div type="page" n="17">
+              <graphic url="p0017.webp"/>
+              <p>
+                  <s>Aglaa<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="18"/>
+            <div type="page" n="18">
+              <graphic url="p0018.webp"/>
+              <p>
+                  <s>Iitghi<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="19"/>
+            <div type="page" n="19">
+              <graphic url="p0019.webp"/>
+              <p>
+                  <s>Ingaghten<pc join="left">.</pc></s>
+              </p>
+            </div>
+            <pb n="20"/>
+            <div type="page" n="20">
+              <graphic url="p0020.webp"/>
+              <p>
+                  <s>Qavaa<pc join="left">.</pc></s>
+              </p>
+            </div>
+
+        </body>
+        
+        
+        <back>
+          
+            <pb n=""/>
+            <div xml:lang="ess-us">
+                <p>Akuzillghet Ukuni Igani Atuqegkat</p>
+                
+                <list type="vocabulary" xml:lang="ess-us">
+                    <label>1<pc join="left">.</pc></label> <item>Teghtaa</item>
+                    <label>2<pc join="left">.</pc></label> <item>Maketen</item>
+                    <label>3<pc join="left">.</pc></label> <item>Aghmigi</item>
+                    <label>4<pc join="left">.</pc></label> <item>Aatigu</item>
+                    <label>5<pc join="left">.</pc></label> <item>Neghi</item>
+                    <label>6<pc join="left">.</pc></label> <item>Meghi</item>
+                    <label>7<pc join="left">.</pc></label> <item>Aani</item>
+                    <label>8<pc join="left">.</pc></label> <item>Naghaaq</item>
+                    <label>9<pc join="left">.</pc></label> <item>Naghaaghi</item>
+                    <label>10<pc join="left">.</pc></label> <item>Aqfaaten</item>
+                    <label>11<pc join="left">.</pc></label> <item>Qetgeghi</item>
+                    <label>12<pc join="left">.</pc></label> <item>Piyaagi</item>
+                    <label>13<pc join="left">.</pc></label> <item>Mayaa</item>
+                    <label>14<pc join="left">.</pc></label> <item>Ukigi</item>
+                    <label>15<pc join="left">.</pc></label> <item>Pugimi</item>
+                    <label>16<pc join="left">.</pc></label> <item>Taglaa</item>
+                    <label>17<pc join="left">.</pc></label> <item>Aglaa</item>
+                    <label>18<pc join="left">.</pc></label> <item>Iitghi</item>
+                    <label>19<pc join="left">.</pc></label> <item>Ingaghten</item>
+                    <label>20<pc join="left">.</pc></label> <item>Qavaa</item>
+                </list>
+            </div>
+            
+            <pb n=""/>
+            <div xml:lang="eng-us">
+                <list type="translation" xml:lang="eng-us">
+                    <label>1<pc join="left">.</pc></label> <item>Wake up<pc join="left">.</pc></item>
+                    <label>2<pc join="left">.</pc></label> <item>Get up<pc join="left">.</pc></item>
+                    <label>3<pc join="left">.</pc></label> <item>Wash<pc join="left">.</pc></item>
+                    <label>4<pc join="left">.</pc></label> <item>Get dressed<pc join="left">.</pc></item>
+                    <label>5<pc join="left">.</pc></label> <item>Eat<pc join="left">.</pc></item>
+                    <label>6<pc join="left">.</pc></label> <item>Drink<pc join="left">.</pc></item>
+                    <label>7<pc join="left">.</pc></label> <item>Go out<pc join="left">.</pc></item>
+                    <label>8<pc join="left">.</pc></label> <item>Play<pc join="left">.</pc></item>
+                    <label>9<pc join="left">.</pc></label> <item>Play with toys<pc join="left">.</pc></item>
+                    <label>10<pc join="left">.</pc></label> <item>Run<pc join="left">.</pc></item>
+                    <label>11<pc join="left">.</pc></label> <item>Jump<pc join="left">.</pc></item>
+                    <label>12<pc join="left">.</pc></label> <item>Walk<pc join="left">.</pc></item>
+                    <label>13<pc join="left">.</pc></label> <item>Climb up<pc join="left">.</pc></item>
+                    <label>14<pc join="left">.</pc></label> <item>Go down<pc join="left">.</pc></item>
+                    <label>15<pc join="left">.</pc></label> <item>Swim<pc join="left">.</pc></item>
+                    <label>16<pc join="left">.</pc></label> <item>Go up<pc join="left">.</pc></item>
+                    <label>17<pc join="left">.</pc></label> <item>Go home<pc join="left">.</pc></item>
+                    <label>18<pc join="left">.</pc></label> <item>Go in<pc join="left">.</pc></item>
+                    <label>19<pc join="left">.</pc></label> <item>Go to bed<pc join="left">.</pc></item>
+                    <label>20<pc join="left">.</pc></label> <item>Sleep<pc join="left">.</pc></item>
+                </list>
+            </div>
+            
+        </back>
+        
+    </text>
+    
+    
+</TEI>
+
