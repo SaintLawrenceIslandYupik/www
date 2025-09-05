@@ -35,7 +35,7 @@
 
 
             <editionStmt>
-                <edition>
+                <edition>Archival digital edition <date when="2025-09-04">2025-09-04</date></edition>
                 <principal>
                     Scanned, digitized, archived, and released by Principal Investigator <persName ref="https://orcid.org/0000-0003-2609-8133" xml:id="orcid-0000-0003-2609-8133">
                         <addName xml:lang="ess-us">Sugri</addName>
@@ -70,7 +70,7 @@
                     </licence>
                 </availability>
                 
-                <date when="2025-09-05">
+                <date when="2025-09-04">
                 
             </publicationStmt>
             
