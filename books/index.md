@@ -5,7 +5,7 @@ title:  Akuzipigelta
 
 # Early reading books
 
-1. Sallghet
+1. [Sallghet](Sallghet)
 2. [Kulusiinkut](Kulusiinkut)
 3. [Kulusiq](Kulusiq)
 4. Qepghaghaqukut Naghaaghaqukut
