@@ -271,7 +271,7 @@
                   
                       - Lane Woodrose Schwartz, 8 September 2025
                   -->
-                  <s>Taghtaa<pc join="left">.</pc></s>
+                  <s><w><m baseForm="taghtugh" type="root" note="to wake up">Taghta</m><m msd="Intr.Opt.PRS.2Sg" type="inflection" join="left" note="You, do V now!">a</m></w><pc join="left">.</pc></s>
                 </p>
             </div>
             <pb n="2" />
@@ -347,7 +347,17 @@
             <div type="page" n="12">
               <graphic url="p0012.webp"/>
               <p>
-                  <s>Piyaagi<pc join="left">.</pc></s>
+                <!--
+                
+                  Digitizing editor's note:
+                
+                    The original book has "Piyaagi"
+                
+                    However, when this book was reviewed during a language learning group in April 2023, speakers indicated that current speakers would likely say "Piyugi" instead.
+                
+                    - Lane Woodrose Schwartz, 8 September 2025
+                -->
+                <s>Piyaagi<pc join="left">.</pc></s>
               </p>
             </div>
             <pb n="13"/>
@@ -469,7 +479,6 @@
         </back>
         
     </text>
-    
     
 </TEI>
 
