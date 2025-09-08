@@ -255,7 +255,25 @@
             <div type="page" n="1" >
                 <graphic url="p0001.webp"/>
                 <p>
-                  <s>Teghtaa<pc join="left">.</pc></s>
+                  <!--
+                  
+                    Digitizing editor's note:
+                  
+                      The original book has "Teghtaa", not "Taghtaa"
+                  
+                      However, when this book was reviewed during a language learning group in April 2023, speakers were notably uncomfortable with the word "Teghtaa."
+                  
+                      It appears that the word "teghtaa" has a sexual meaning.
+                  
+                      The finite-state morphological analyzer gives the following as an additional analsis of "teghtaa":
+                        tegh + te[N→V] + [Trns][Ind][3Sg][3Sg]
+                        where the noun root tegh- means anus.
+                  
+                      For this reason, the alternative spelling "Taghtaa" is used here, and in the end-of-book glossary.
+                  
+                      --Lane Woodrose Schwartz, 8 September 2025
+                  -->
+                  <s>Taghtaa<pc join="left">.</pc></s>
                 </p>
             </div>
             <pb n="2" />
@@ -401,7 +419,7 @@
                 <p>Akuzillghet Ukuni Igani Atuqegkat</p>
                 
                 <list type="vocabulary" xml:lang="ess-us">
-                    <label>1<pc join="left">.</pc></label> <item>Teghtaa</item><lb/>
+                    <label>1<pc join="left">.</pc></label> <item>Taghtaa</item><lb/>
                     <label>2<pc join="left">.</pc></label> <item>Maketen</item><lb/>
                     <label>3<pc join="left">.</pc></label> <item>Aghmigi</item><lb/>
                     <label>4<pc join="left">.</pc></label> <item>Aatigu</item><lb/>
