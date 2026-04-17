@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: redirect
 title:  Dictionary
+target: https://saintlawrenceislandyupik.github.io/akuzipigestun-sangaawa/
 ---
-
-# Dictionary
-
-Dictionary goes here
