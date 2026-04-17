@@ -7,11 +7,11 @@ title:  Akuzipigelta
 
 [Akuzle word guessing game](https://bhunt6.github.io/Akuzipik-Word-Guessing-Game)
 
-[Akuzipik dictionary](https://akuzipik.info/dictionary)
+[Akuzipik dictionary](https://dictionary.akuzipik.info)
 
-[Morphological analyzer](https://bhunt6.github.io/itemquulteki/)
+[Morphological analyzer](https://saintlawrenceislandyupik.github.io/itemquulteki/)
 
-[Word builder](https://bhunt6.github.io/itemquulteki/itemquulteki_down.html)
+[Word builder](https://saintlawrenceislandyupik.github.io/itemquulteki/itemquulteki_down.html)
 
 # Digitized books
 
