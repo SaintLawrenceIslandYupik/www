@@ -7,7 +7,7 @@ title:  Akuzipigelta
 
 [Akuzle word guessing game](https://bhunt6.github.io/Akuzipik-Word-Guessing-Game)
 
-[Akuzipik dictionary](https://dictionary.akuzipik.info)
+[Akuzipik dictionary](https://saintlawrenceislandyupik.github.io/akuzipigestun-sangaawa)
 
 [Morphological analyzer](https://saintlawrenceislandyupik.github.io/itemquulteki/)
 
