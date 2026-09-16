@@ -5,7 +5,7 @@ title:  Akuzipigelta
 
 # Online tools
 
-[Akuzle word guessing game](https://bhunt6.github.io/Akuzipik-Word-Guessing-Game)
+[Akuzle word guessing game](https://saintlawrenceislandyupik.github.io/Akuzipik-Word-Guessing-Game)
 
 [Akuzipik dictionary](https://saintlawrenceislandyupik.github.io/akuzipigestun-sangaawa)
 
