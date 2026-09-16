@@ -5,13 +5,13 @@ title:  Akuzipigelta
 
 # Online tools
 
-[Akuzle word guessing game](https://saintlawrenceislandyupik.github.io/Akuzipik-Word-Guessing-Game)
+[Akuzle word guessing game](https://akuzle.akuzipik.info)
 
-[Akuzipik dictionary](https://saintlawrenceislandyupik.github.io/akuzipigestun-sangaawa)
+[Akuzipik dictionary](https://dictionary.akuzipik.info)
 
-[Morphological analyzer](https://saintlawrenceislandyupik.github.io/itemquulteki/)
+[Morphological analyzer](https://morphology.akuzipik.info)
 
-[Word builder](https://saintlawrenceislandyupik.github.io/itemquulteki/itemquulteki_down.html)
+[Word builder](https://wordbuilder.akuzipik.info)
 
 # Digitized books
 
